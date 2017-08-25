@@ -1,0 +1,4 @@
+[caps]
+platformName = "android"
+app = "common/slack.apk"
+deviceName="Android"
